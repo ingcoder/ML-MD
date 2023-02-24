@@ -1,0 +1,6 @@
+e3nn==0.5.1
+ipykernel==6.21.2
+jupyter==1.0.0
+plotly==5.13.0
+matplotlib==3.7.0
+rdkit==2022.9.4
