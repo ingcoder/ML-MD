@@ -3,6 +3,7 @@
 A collection of jupyter notebooks using GNN models for MD simulation and cheminformatic tasks.
 
 ## pytorch baseline model
+<img width="1011" alt="Screenshot 2023-02-25 at 7 13 34 PM" src="https://user-images.githubusercontent.com/47470591/221390329-34a1f864-f489-4293-997f-f9f1819aba62.png">
 
 
 ## e3NN model
